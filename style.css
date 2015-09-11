@@ -1,0 +1,10 @@
+#target {
+	width: 130px;
+	padding: 5px;
+	background-color: floralwhite;
+	border: solid antiquewhite 1px;
+	border-radius: 50%;
+	font: message-box;
+	text-align: center;
+	margin: 0;
+}

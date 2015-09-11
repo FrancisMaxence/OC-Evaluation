@@ -1,7 +1,7 @@
 $(function() {
 	// Define the window dimensions
-	var width  = ($(window).width() - 130),
-		height = ($(window).height() - 18);
+	var width  = ($(window).width() - 136),
+		height = ($(window).height() - 22);
 	
 	// Initial position of th <p>
 	var p = $('#target').offset();
